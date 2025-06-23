@@ -1,0 +1,8 @@
+# feelings:
+
+# notes
+
+# things to remember: 
+
+# overall:
+
