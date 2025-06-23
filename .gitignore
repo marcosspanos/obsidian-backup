@@ -3,3 +3,6 @@
 .vscode
 conflict-files-obsidian-git.md
 
+
+**/**.DS_Store
+a73da3482627bd465495aa69363eef97d32cd7fc
